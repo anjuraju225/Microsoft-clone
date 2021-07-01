@@ -138,3 +138,16 @@ background: url('img/carbon.jpg') no-repeat center center/cover;
     width: 55%;
     padding: 100px 0 0 30px;
 }
+/*follow*/
+.follow{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 30px 0 30px;
+}
+.follow *{
+    margin-right: 10px;
+}
+.logoimg{
+    width: 55px;
+}
